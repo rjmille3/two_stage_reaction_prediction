@@ -95,7 +95,7 @@ export OE_LICENSE="path/to/oe_license.txt"
 
 1. **Generate predictions**  
    ```bash
-   shell_scripts/eval/run_two_stage_prediction
+   shell_scripts/eval/run_two_stage_prediction.sh
    ```
    This produces:
    - `bad.csv` → lines that failed processing  
