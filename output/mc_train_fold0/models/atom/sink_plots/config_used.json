@@ -1,0 +1,15 @@
+{
+  "num_layers": 6,
+  "hidden_dim": 540,
+  "dropout": 0.02,
+  "l2_reg": 0.001,
+  "lr": 3.28e-05,
+  "beta1": 0.866,
+  "beta2": 0.998,
+  "epochs": 100,
+  "batch_size": 512,
+  "patience": 100,
+  "monitor": "val_loss",
+  "mode": "min",
+  "seed": 0
+}

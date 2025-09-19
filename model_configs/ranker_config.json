@@ -1,0 +1,15 @@
+{
+    "num_layers": 3, 
+    "hidden_dim": 140, 
+    "dropout": 0.468,  
+    "activation": "relu",  
+    "lr": 0.01,        
+    "beta1": 0.895124,
+    "beta2": 0.933391,
+    "epsilon": 1e-8,
+    "amsgrad": false,
+    "epochs": 100,          
+    "batch_size": 2048,
+    "patience": 50,       
+    "restore_best": true    
+}

@@ -1,0 +1,32 @@
+{
+  "paths": {
+    "train_h5": "output/mc_train_fold0/ranker_training/train.hdf5",
+    "val_h5": "output/mc_train_fold0/ranker_training/val.hdf5",
+    "best_model_path": "output/mc_train_fold0/models/ranker_with_logits/polar_ranker_single_best.h5",
+    "history_json": "output/mc_train_fold0/models/ranker_with_logits/history.json",
+    "loss_png": "output/mc_train_fold0/models/ranker_with_logits/loss.png",
+    "accuracy_png": "output/mc_train_fold0/models/ranker_with_logits/accuracy.png"
+  },
+  "hparams": {
+    "num_layers": 3,
+    "hidden_dim": 140,
+    "dropout": 0.468,
+    "activation": "relu",
+    "lr": 0.01,
+    "beta1": 0.895124,
+    "beta2": 0.933391,
+    "epsilon": 1e-08,
+    "amsgrad": false,
+    "epochs": 100,
+    "batch_size": 2048,
+    "patience": 50,
+    "restore_best": true
+  },
+  "metrics": {
+    "best_epoch": 28,
+    "best_val_loss": 2.688279643336955e-08,
+    "best_val_accuracy_at_best_epoch": 1.0,
+    "last_train_loss": 2.6882815973294782e-08,
+    "seconds": 700.5
+  }
+}

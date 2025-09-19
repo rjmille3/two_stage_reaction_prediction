@@ -1,0 +1,746 @@
+nohup: ignoring input
+[03:27:36] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[03:27:36] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:27:36] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:27:36] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:27:38] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[03:27:38] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:27:38] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:27:43] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:27:43] Explicit valence for atom # 0 Cl, 3, is greater than permitted
+[03:27:49] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+[03:27:49] Explicit valence for atom # 10 Cl, 3, is greater than permitted
+[03:27:49] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+[03:28:06] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:28:06] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:28:07] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:28:07] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:28:07] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:28:08] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:28:08] Explicit valence for atom # 8 Br, 3, is greater than permitted
+[03:28:08] Explicit valence for atom # 8 Br, 3, is greater than permitted
+[03:28:20] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[03:28:20] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[03:28:20] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:28:33] Explicit valence for atom # 12 Cl, 3, is greater than permitted
+[03:28:33] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+[03:28:45] Explicit valence for atom # 9 Br, 3, is greater than permitted
+[03:28:45] Explicit valence for atom # 9 Br, 3, is greater than permitted
+[03:28:45] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:28:47] Explicit valence for atom # 8 Br, 3, is greater than permitted
+[03:28:47] Explicit valence for atom # 14 Br, 3, is greater than permitted
+[03:28:47] Explicit valence for atom # 8 Br, 3, is greater than permitted
+[03:28:47] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:28:47] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[03:28:47] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:28:47] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[03:28:47] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[03:29:09] Explicit valence for atom # 16 Cl, 3, is greater than permitted
+[03:29:09] Explicit valence for atom # 5 Cl, 3, is greater than permitted
+[03:29:09] Explicit valence for atom # 9 Cl, 3, is greater than permitted
+[03:29:09] Explicit valence for atom # 18 Cl, 3, is greater than permitted
+[03:29:09] Explicit valence for atom # 16 Cl, 3, is greater than permitted
+[03:29:11] Explicit valence for atom # 11 Cl, 3, is greater than permitted
+[03:29:11] Explicit valence for atom # 8 Cl, 3, is greater than permitted
+[03:29:11] Explicit valence for atom # 9 Cl, 3, is greater than permitted
+[03:29:11] Explicit valence for atom # 10 Cl, 3, is greater than permitted
+[03:29:17] Explicit valence for atom # 7 Cl, 3, is greater than permitted
+[03:29:18] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[03:29:18] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:29:18] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:29:18] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:29:18] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:29:25] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:29:25] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+[03:29:25] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:29:25] Explicit valence for atom # 11 Br, 3, is greater than permitted
+[03:29:25] Explicit valence for atom # 11 Br, 3, is greater than permitted
+[03:29:25] Explicit valence for atom # 11 Br, 3, is greater than permitted
+[03:29:49] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:29:49] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:29:49] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[03:29:49] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:29:49] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[03:30:36] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:30:36] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+[03:30:57] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:30:57] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:30:57] Explicit valence for atom # 12 Cl, 3, is greater than permitted
+[03:31:04] Explicit valence for atom # 7 Br, 3, is greater than permitted
+[03:31:04] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[03:31:04] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[03:31:04] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:31:34] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:31:34] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[03:31:56] Explicit valence for atom # 0 Cl, 3, is greater than permitted
+[03:32:03] Explicit valence for atom # 0 Cl, 3, is greater than permitted
+[03:32:04] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:32:21] Explicit valence for atom # 7 Cl, 3, is greater than permitted
+[03:32:21] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:32:28] Explicit valence for atom # 22 Cl, 3, is greater than permitted
+100 reactions processed... Elapsed time: 295.79 seconds
+[03:32:47] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:32:50] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[03:32:54] Explicit valence for atom # 0 Cl, 3, is greater than permitted
+[03:33:01] Explicit valence for atom # 7 Sn, 6, is greater than permitted
+[03:33:13] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:33:28] Explicit valence for atom # 8 Br, 3, is greater than permitted
+[03:33:28] Explicit valence for atom # 8 Br, 3, is greater than permitted
+[03:33:29] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:33:29] Explicit valence for atom # 12 Br, 3, is greater than permitted
+[03:33:29] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:33:31] Explicit valence for atom # 12 Br, 3, is greater than permitted
+[03:33:44] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[03:34:13] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:34:13] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:34:13] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:34:13] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:34:13] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:34:13] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:34:39] Explicit valence for atom # 1 N, 4, is greater than permitted
+[03:34:46] Explicit valence for atom # 5 Cl, 3, is greater than permitted
+[03:34:46] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:35:21] Explicit valence for atom # 11 Si, 8, is greater than permitted
+[03:35:33] Explicit valence for atom # 10 Cl, 3, is greater than permitted
+[03:35:33] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:35:55] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:35:55] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:36:04] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[03:36:04] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[03:36:04] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[03:36:04] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:36:04] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[03:36:08] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:36:08] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[03:36:09] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:36:09] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:36:16] Explicit valence for atom # 29 Br, 3, is greater than permitted
+200 reactions processed... Elapsed time: 524.69 seconds
+[03:36:20] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:36:52] Explicit valence for atom # 8 Br, 3, is greater than permitted
+[03:37:16] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:37:16] Explicit valence for atom # 21 Br, 3, is greater than permitted
+[03:37:29] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:37:29] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[03:37:29] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[03:37:29] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:37:57] Explicit valence for atom # 7 Cl, 3, is greater than permitted
+[03:37:57] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:37:57] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:37:57] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:37:57] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:37:57] Explicit valence for atom # 8 Cl, 3, is greater than permitted
+[03:38:03] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:38:03] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:38:03] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:38:03] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:38:03] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:38:09] Explicit valence for atom # 2 Si, 8, is greater than permitted
+[03:38:09] Explicit valence for atom # 2 Si, 8, is greater than permitted
+[03:38:09] Explicit valence for atom # 2 Si, 8, is greater than permitted
+[03:38:10] Explicit valence for atom # 5 Cl, 3, is greater than permitted
+[03:38:10] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:38:20] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:38:20] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:38:20] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:39:20] Explicit valence for atom # 9 Br, 3, is greater than permitted
+[03:39:59] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:39:59] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:40:10] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[03:40:10] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:40:10] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:40:10] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:40:10] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:40:10] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[03:40:24] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:40:24] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:40:24] Explicit valence for atom # 5 Cl, 3, is greater than permitted
+[03:40:24] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:40:24] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:40:24] Explicit valence for atom # 0 Cl, 3, is greater than permitted
+300 reactions processed... Elapsed time: 777.49 seconds
+[03:40:52] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:40:52] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:40:53] Explicit valence for atom # 8 Cl, 3, is greater than permitted
+[03:40:53] Explicit valence for atom # 14 Cl, 3, is greater than permitted
+[03:40:53] Explicit valence for atom # 8 Cl, 3, is greater than permitted
+[03:41:02] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:41:02] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:41:05] Explicit valence for atom # 7 Cl, 3, is greater than permitted
+[03:41:05] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:41:05] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:41:05] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:41:05] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:41:05] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:41:05] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[03:41:08] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[03:41:08] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[03:42:12] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:42:12] Explicit valence for atom # 7 Br, 3, is greater than permitted
+[03:42:12] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:42:19] Explicit valence for atom # 5 Cl, 3, is greater than permitted
+[03:42:27] Explicit valence for atom # 12 Cl, 3, is greater than permitted
+[03:42:40] Explicit valence for atom # 0 Cl, 3, is greater than permitted
+[03:42:52] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[03:42:52] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[03:42:52] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[03:42:52] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[03:42:53] Explicit valence for atom # 10 Cl, 3, is greater than permitted
+[03:42:53] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:42:57] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:42:57] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[03:42:57] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[03:43:10] Explicit valence for atom # 9 Cl, 3, is greater than permitted
+[03:43:20] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:43:20] Explicit valence for atom # 0 Cl, 3, is greater than permitted
+[03:43:30] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[03:43:38] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:43:39] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:43:39] WARNING: not removing hydrogen atom without neighbors
+[03:43:39] WARNING: not removing hydrogen atom without neighbors
+[03:43:59] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:44:04] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:44:04] Explicit valence for atom # 7 Br, 3, is greater than permitted
+[03:44:04] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:44:04] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:44:04] WARNING: not removing hydrogen atom without neighbors
+[03:44:04] WARNING: not removing hydrogen atom without neighbors
+[03:44:16] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:44:16] Explicit valence for atom # 20 Br, 3, is greater than permitted
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:20] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] Explicit valence for atom # 2 Si, 8, is greater than permitted
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:21] WARNING: not removing hydrogen atom without neighbors
+[03:44:24] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:44:25] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:44:36] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:44:36] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[03:44:41] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[03:44:41] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:44:43] Explicit valence for atom # 11 Cl, 3, is greater than permitted
+[03:44:45] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:44:45] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[03:44:45] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:44:47] Explicit valence for atom # 25 Si, 8, is greater than permitted
+400 reactions processed... Elapsed time: 1034.48 seconds
+[03:44:58] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[03:45:32] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[03:45:46] Explicit valence for atom # 7 Cl, 3, is greater than permitted
+[03:45:46] Explicit valence for atom # 10 Cl, 3, is greater than permitted
+[03:46:12] Explicit valence for atom # 15 Cl, 3, is greater than permitted
+[03:46:12] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:46:12] Explicit valence for atom # 17 Cl, 3, is greater than permitted
+[03:46:12] Explicit valence for atom # 17 Cl, 3, is greater than permitted
+[03:46:22] WARNING: not removing hydrogen atom without neighbors
+[03:46:22] WARNING: not removing hydrogen atom without neighbors
+[03:46:22] WARNING: not removing hydrogen atom without neighbors
+[03:46:22] WARNING: not removing hydrogen atom without neighbors
+[03:46:22] WARNING: not removing hydrogen atom without neighbors
+[03:46:22] WARNING: not removing hydrogen atom without neighbors
+[03:46:22] WARNING: not removing hydrogen atom without neighbors
+[03:46:22] WARNING: not removing hydrogen atom without neighbors
+[03:46:22] WARNING: not removing hydrogen atom without neighbors
+[03:46:22] WARNING: not removing hydrogen atom without neighbors
+[03:46:23] Explicit valence for atom # 2 Si, 8, is greater than permitted
+[03:46:23] Explicit valence for atom # 2 Si, 8, is greater than permitted
+[03:46:23] Explicit valence for atom # 2 Si, 8, is greater than permitted
+[03:46:23] Explicit valence for atom # 2 Si, 8, is greater than permitted
+[03:46:23] Explicit valence for atom # 2 Si, 8, is greater than permitted
+[03:46:29] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:46:29] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:46:55] Explicit valence for atom # 7 Br, 3, is greater than permitted
+[03:46:57] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+[03:46:57] Explicit valence for atom # 12 Cl, 3, is greater than permitted
+[03:46:57] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+[03:47:04] Explicit valence for atom # 12 Cl, 3, is greater than permitted
+[03:47:05] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[03:47:05] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:47:05] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[03:47:05] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:47:05] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:47:05] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:47:11] WARNING: not removing hydrogen atom without neighbors
+[03:47:11] WARNING: not removing hydrogen atom without neighbors
+[03:48:39] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:48:47] Explicit valence for atom # 0 Si, 8, is greater than permitted
+[03:48:47] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[03:48:47] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[03:48:51] Explicit valence for atom # 39 Cl, 3, is greater than permitted
+[03:48:51] Explicit valence for atom # 8 Cl, 3, is greater than permitted
+[03:48:51] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:49:00] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[03:49:01] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[03:49:11] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:49:11] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:49:11] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:49:11] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:49:11] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:49:11] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:49:11] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:49:11] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:49:16] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[03:49:16] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[03:49:16] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:49:16] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:49:23] Explicit valence for atom # 11 Br, 3, is greater than permitted
+[03:49:23] Explicit valence for atom # 11 Br, 3, is greater than permitted
+[03:49:23] Explicit valence for atom # 11 Br, 3, is greater than permitted
+500 reactions processed... Elapsed time: 1320.55 seconds
+[03:49:39] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:49:39] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:49:43] Explicit valence for atom # 8 Si, 8, is greater than permitted
+[03:49:48] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[03:50:02] WARNING: not removing hydrogen atom without neighbors
+[03:50:02] WARNING: not removing hydrogen atom without neighbors
+[03:50:02] Explicit valence for atom # 16 Cl, 3, is greater than permitted
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:06] WARNING: not removing hydrogen atom without neighbors
+[03:50:07] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:50:46] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:50:47] Explicit valence for atom # 7 Br, 3, is greater than permitted
+[03:51:36] WARNING: not removing hydrogen atom without neighbors
+[03:51:36] WARNING: not removing hydrogen atom without neighbors
+[03:51:36] WARNING: not removing hydrogen atom without neighbors
+[03:51:36] WARNING: not removing hydrogen atom without neighbors
+[03:51:36] WARNING: not removing hydrogen atom without neighbors
+[03:51:36] WARNING: not removing hydrogen atom without neighbors
+[03:51:36] WARNING: not removing hydrogen atom without neighbors
+[03:51:36] WARNING: not removing hydrogen atom without neighbors
+[03:51:36] WARNING: not removing hydrogen atom without neighbors
+[03:51:36] WARNING: not removing hydrogen atom without neighbors
+[03:51:37] Explicit valence for atom # 5 Cl, 3, is greater than permitted
+[03:51:37] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:51:37] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:51:38] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:51:38] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:51:38] Explicit valence for atom # 8 Cl, 3, is greater than permitted
+[03:51:38] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:51:48] Explicit valence for atom # 5 Cl, 3, is greater than permitted
+[03:51:48] Explicit valence for atom # 5 Cl, 3, is greater than permitted
+[03:51:48] Explicit valence for atom # 5 Cl, 3, is greater than permitted
+[03:51:50] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:51:50] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:51:50] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:51:50] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:51:50] Explicit valence for atom # 1 O, 3, is greater than permitted
+[03:52:13] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:52:13] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:52:13] Explicit valence for atom # 5 Cl, 3, is greater than permitted
+[03:52:13] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:52:13] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+[03:52:21] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:52:52] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[03:52:52] Explicit valence for atom # 1 O, 3, is greater than permitted
+[03:52:52] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:52:55] Explicit valence for atom # 0 Si, 8, is greater than permitted
+[03:53:11] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[03:53:11] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[03:53:11] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[03:53:11] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[03:53:12] Explicit valence for atom # 22 Cl, 3, is greater than permitted
+[03:53:12] Explicit valence for atom # 2 Si, 8, is greater than permitted
+[03:53:12] Explicit valence for atom # 2 Si, 8, is greater than permitted
+[03:53:22] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:53:23] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:53:23] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:53:24] Explicit valence for atom # 15 Br, 3, is greater than permitted
+[03:53:24] Explicit valence for atom # 11 Br, 3, is greater than permitted
+[03:53:37] Explicit valence for atom # 7 Br, 3, is greater than permitted
+[03:53:37] Explicit valence for atom # 7 Br, 3, is greater than permitted
+[03:53:37] Explicit valence for atom # 14 Br, 3, is greater than permitted
+[03:53:50] WARNING: not removing hydrogen atom without neighbors
+[03:53:50] WARNING: not removing hydrogen atom without neighbors
+600 reactions processed... Elapsed time: 1586.42 seconds
+[03:54:33] Explicit valence for atom # 7 Br, 3, is greater than permitted
+[03:54:33] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:54:33] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:54:33] Explicit valence for atom # 7 Br, 3, is greater than permitted
+[03:54:33] Explicit valence for atom # 9 Br, 3, is greater than permitted
+[03:54:37] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[03:54:37] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[03:54:37] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[03:54:37] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[03:54:57] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[03:54:57] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[03:54:57] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[03:54:57] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[03:54:57] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[03:54:59] Explicit valence for atom # 9 Br, 3, is greater than permitted
+[03:54:59] Explicit valence for atom # 9 Br, 3, is greater than permitted
+[03:55:03] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:55:03] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[03:55:03] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:55:03] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[03:55:03] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:55:15] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+[03:55:24] Explicit valence for atom # 26 Cl, 3, is greater than permitted
+[03:55:24] Explicit valence for atom # 3 Si, 8, is greater than permitted
+[03:55:24] Explicit valence for atom # 7 Br, 3, is greater than permitted
+[03:55:24] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:55:24] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:55:27] Explicit valence for atom # 11 Cl, 3, is greater than permitted
+[03:55:27] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[03:55:27] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:55:28] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:56:15] Explicit valence for atom # 17 Cl, 3, is greater than permitted
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:49] WARNING: not removing hydrogen atom without neighbors
+[03:56:57] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:56:57] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:56:57] Explicit valence for atom # 12 Cl, 3, is greater than permitted
+[03:57:07] Explicit valence for atom # 17 Br, 3, is greater than permitted
+[03:57:12] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:57:12] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:57:12] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[03:57:12] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[03:57:19] Explicit valence for atom # 15 Si, 8, is greater than permitted
+[03:57:25] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[03:57:25] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:57:25] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[03:57:26] Explicit valence for atom # 8 Cl, 3, is greater than permitted
+[03:57:27] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:57:27] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:58:04] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[03:58:04] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[03:58:04] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[03:58:14] Explicit valence for atom # 11 Br, 3, is greater than permitted
+[03:58:14] Explicit valence for atom # 13 Br, 3, is greater than permitted
+[03:58:14] Explicit valence for atom # 11 Br, 3, is greater than permitted
+[03:58:14] Explicit valence for atom # 13 Br, 3, is greater than permitted
+[03:58:14] Explicit valence for atom # 12 Br, 3, is greater than permitted
+[03:58:14] Explicit valence for atom # 11 Br, 3, is greater than permitted
+[03:58:15] Explicit valence for atom # 0 Cl, 3, is greater than permitted
+[03:58:15] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:59:20] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:59:20] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:59:20] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[03:59:20] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[03:59:26] Explicit valence for atom # 16 Cl, 3, is greater than permitted
+[03:59:27] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:59:27] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[03:59:41] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[03:59:41] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[03:59:41] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[03:59:41] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[03:59:45] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[03:59:45] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+[03:59:45] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+700 reactions processed... Elapsed time: 1961.11 seconds
+[04:00:16] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[04:00:28] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[04:00:38] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[04:00:38] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[04:00:38] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[04:00:38] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[04:00:41] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[04:00:41] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[04:00:55] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[04:00:55] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[04:01:11] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+[04:01:11] Explicit valence for atom # 7 Cl, 3, is greater than permitted
+[04:01:17] Explicit valence for atom # 10 Cl, 3, is greater than permitted
+[04:01:32] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[04:01:32] Explicit valence for atom # 10 Cl, 3, is greater than permitted
+[04:01:32] Explicit valence for atom # 7 Cl, 3, is greater than permitted
+[04:01:32] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[04:02:15] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[04:02:15] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[04:02:15] Explicit valence for atom # 3 Si, 8, is greater than permitted
+[04:02:15] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[04:02:15] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[04:02:15] Explicit valence for atom # 0 Cl, 3, is greater than permitted
+[04:02:15] Explicit valence for atom # 0 Si, 8, is greater than permitted
+[04:02:31] Explicit valence for atom # 7 Si, 8, is greater than permitted
+[04:02:31] Explicit valence for atom # 5 Si, 8, is greater than permitted
+[04:02:31] Explicit valence for atom # 5 Si, 8, is greater than permitted
+[04:02:31] Explicit valence for atom # 2 Si, 8, is greater than permitted
+[04:02:52] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[04:02:52] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[04:02:52] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[04:03:05] Explicit valence for atom # 3 Si, 8, is greater than permitted
+[04:03:23] Explicit valence for atom # 11 Cl, 3, is greater than permitted
+[04:03:23] Explicit valence for atom # 9 Cl, 3, is greater than permitted
+[04:03:23] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[04:03:26] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[04:03:26] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[04:03:43] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[04:03:43] Explicit valence for atom # 2 Si, 8, is greater than permitted
+[04:03:43] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[04:03:43] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[04:03:43] Explicit valence for atom # 0 Si, 8, is greater than permitted
+[04:03:43] Explicit valence for atom # 0 Si, 8, is greater than permitted
+[04:04:09] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[04:04:09] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[04:04:09] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[04:04:09] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[04:04:21] WARNING: not removing hydrogen atom without neighbors
+[04:04:21] WARNING: not removing hydrogen atom without neighbors
+[04:04:43] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[04:05:19] Explicit valence for atom # 0 Cl, 3, is greater than permitted
+[04:05:19] Explicit valence for atom # 0 Cl, 3, is greater than permitted
+[04:05:19] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[04:05:19] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[04:05:19] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[04:05:33] Explicit valence for atom # 9 Br, 3, is greater than permitted
+[04:05:33] Explicit valence for atom # 9 Br, 3, is greater than permitted
+[04:05:33] Explicit valence for atom # 9 Br, 3, is greater than permitted
+[04:05:33] Explicit valence for atom # 6 Br, 3, is greater than permitted
+800 reactions processed... Elapsed time: 2280.54 seconds
+[04:05:33] Explicit valence for atom # 0 Br, 3, is greater than permitted
+900 reactions processed... Elapsed time: 2304.41 seconds
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] WARNING: not removing hydrogen atom without neighbors
+[04:06:24] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[04:06:24] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[04:06:45] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+[04:06:46] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[04:06:46] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[04:06:51] Explicit valence for atom # 8 Br, 3, is greater than permitted
+[04:06:56] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[04:06:56] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[04:06:58] Explicit valence for atom # 9 Cl, 3, is greater than permitted
+[04:06:59] Explicit valence for atom # 9 Cl, 3, is greater than permitted
+[04:07:18] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[04:07:18] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[04:07:18] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[04:07:18] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[04:07:40] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[04:07:50] Explicit valence for atom # 12 Br, 3, is greater than permitted
+[04:08:13] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+[04:08:27] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[04:08:27] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[04:08:27] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[04:08:27] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[04:08:42] Explicit valence for atom # 4 Si, 8, is greater than permitted
+[04:08:48] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[04:08:48] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[04:08:48] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[04:08:48] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[04:08:48] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[04:08:59] Explicit valence for atom # 0 Cl, 3, is greater than permitted
+[04:08:59] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[04:08:59] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[04:08:59] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[04:09:05] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[04:09:05] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[04:09:26] Explicit valence for atom # 10 Br, 3, is greater than permitted
+[04:09:41] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[04:09:41] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[04:09:41] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[04:09:45] Explicit valence for atom # 16 Cl, 3, is greater than permitted
+[04:09:45] Explicit valence for atom # 16 Cl, 3, is greater than permitted
+[04:09:50] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[04:10:01] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[04:10:01] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[04:10:49] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+[04:10:56] Explicit valence for atom # 15 Cl, 3, is greater than permitted
+[04:10:57] Explicit valence for atom # 5 O, 3, is greater than permitted
+1000 reactions processed... Elapsed time: 2623.47 seconds
+[04:11:56] Explicit valence for atom # 7 Br, 3, is greater than permitted
+[04:11:56] Explicit valence for atom # 13 Br, 3, is greater than permitted
+[04:11:56] Explicit valence for atom # 7 Br, 3, is greater than permitted
+[04:11:57] Explicit valence for atom # 5 Cl, 3, is greater than permitted
+[04:11:57] Explicit valence for atom # 7 Cl, 3, is greater than permitted
+[04:11:57] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[04:11:57] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[04:12:05] Explicit valence for atom # 0 Br, 3, is greater than permitted
+[04:12:16] Explicit valence for atom # 13 Cl, 3, is greater than permitted
+[04:12:16] Explicit valence for atom # 8 Cl, 3, is greater than permitted
+[04:12:18] Explicit valence for atom # 8 Br, 3, is greater than permitted
+[04:12:25] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[04:12:25] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[04:12:25] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[04:12:25] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[04:12:25] Explicit valence for atom # 2 Si, 8, is greater than permitted
+[04:12:25] Explicit valence for atom # 10 Si, 8, is greater than permitted
+[04:13:22] Explicit valence for atom # 2 Si, 8, is greater than permitted
+[04:13:33] Explicit valence for atom # 5 Cl, 3, is greater than permitted
+[04:13:33] Explicit valence for atom # 25 Cl, 3, is greater than permitted
+1100 reactions processed... Elapsed time: 2773.56 seconds
+[04:14:07] Explicit valence for atom # 7 Cl, 3, is greater than permitted
+[04:14:07] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[04:14:35] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[04:14:35] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[04:14:35] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[04:14:43] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[04:14:43] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[04:14:43] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[04:14:43] Explicit valence for atom # 10 Cl, 3, is greater than permitted
+[04:14:43] Explicit valence for atom # 7 Cl, 3, is greater than permitted
+[04:14:43] Explicit valence for atom # 8 Cl, 3, is greater than permitted
+[04:14:44] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[04:14:44] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+[04:14:44] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[04:14:44] Explicit valence for atom # 5 Cl, 3, is greater than permitted
+[04:14:59] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[04:15:13] Explicit valence for atom # 3 Cl, 3, is greater than permitted
+[04:15:13] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[04:15:47] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+[04:15:47] Explicit valence for atom # 10 Cl, 3, is greater than permitted
+[04:15:47] Explicit valence for atom # 8 Cl, 3, is greater than permitted
+[04:15:47] Explicit valence for atom # 7 Cl, 3, is greater than permitted
+[04:15:54] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[04:15:54] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[04:15:54] Explicit valence for atom # 0 Cl, 3, is greater than permitted
+[04:16:10] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[04:16:50] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[04:16:50] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[04:16:59] Explicit valence for atom # 8 Cl, 3, is greater than permitted
+[04:17:11] Explicit valence for atom # 7 Cl, 3, is greater than permitted
+[04:17:11] Explicit valence for atom # 6 Cl, 3, is greater than permitted
+1200 reactions processed... Elapsed time: 2995.50 seconds
+[04:18:02] Explicit valence for atom # 9 Br, 3, is greater than permitted
+[04:18:05] Explicit valence for atom # 7 Br, 3, is greater than permitted
+[04:18:05] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[04:18:05] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[04:18:07] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[04:18:07] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[04:18:07] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[04:18:17] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[04:18:17] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[04:18:17] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[04:18:17] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[04:18:17] Explicit valence for atom # 4 Br, 3, is greater than permitted
+[04:18:17] Explicit valence for atom # 3 Br, 3, is greater than permitted
+[04:18:17] Explicit valence for atom # 1 Br, 3, is greater than permitted
+[04:18:20] Explicit valence for atom # 1 Si, 8, is greater than permitted
+[04:18:20] Explicit valence for atom # 0 Si, 8, is greater than permitted
+[04:18:21] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[04:18:21] Explicit valence for atom # 5 Br, 3, is greater than permitted
+[04:18:21] Explicit valence for atom # 2 Br, 3, is greater than permitted
+[04:18:26] Explicit valence for atom # 2 Cl, 3, is greater than permitted
+[04:18:26] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[04:18:32] Explicit valence for atom # 4 Cl, 3, is greater than permitted
+[04:18:32] Explicit valence for atom # 12 Cl, 3, is greater than permitted
+[04:18:32] Explicit valence for atom # 9 Cl, 3, is greater than permitted
+[04:18:42] Explicit valence for atom # 5 Cl, 3, is greater than permitted
+[04:18:46] Explicit valence for atom # 1 Cl, 3, is greater than permitted
+[04:19:18] Explicit valence for atom # 12 Cl, 3, is greater than permitted
+[04:19:18] Explicit valence for atom # 8 Cl, 3, is greater than permitted
+[04:19:18] Explicit valence for atom # 9 Cl, 3, is greater than permitted
+[04:20:01] Explicit valence for atom # 7 Br, 3, is greater than permitted
+[04:20:22] Explicit valence for atom # 6 Br, 3, is greater than permitted
+[04:20:22] Explicit valence for atom # 13 Br, 3, is greater than permitted
+1300 reactions processed... Elapsed time: 3217.85 seconds
+Data has been written to the HDF5 file.

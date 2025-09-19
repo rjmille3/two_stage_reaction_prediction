@@ -1,0 +1,19 @@
+https://www.eyesopen.com/academic-licensing
+
+Academic License Agreement Preface
+OpenEye's Free Academic Licenses are for you if you work at an accredited degree-granting college or university and your intent is to use the licenses for teaching purposes or to:
+
+Run a program
+Analyze results
+Publish results
+Move on to the next project
+If you are interested in using the software for any other purposes, you will need to disclose and describe those in your license application.
+
+The following is a list of example uses requiring disclosure that may or may not be permitted at our discretion depending on the circumstance:
+
+Develop software methods or algorithms that are substantially similar to an OpenEye product
+Obtain the software solely for the purpose of publishing a software comparison study
+Make money from the use of the software (either IP generation or software services)
+Offer publicly available databases created from the use of OpenEye software
+Use the software as part of a website
+Again, if your intended use falls into one of the above or similar categories, it does not mean that you cannot have licenses. It just means that a more in-depth discussion about your purposes will be required as part of the application process. We will attempt to accommodate all reasonable requests. Failure to disclose potentially unacceptable uses of the software or other conflicts of interest as outlined above may result in software licenses being revoked or not renewed.
