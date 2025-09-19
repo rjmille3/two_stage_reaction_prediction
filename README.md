@@ -2,7 +2,7 @@
 
 This repository provides scripts and models for atom and mechanism ranking in reaction prediction.
 
-Additional data splits and model checkpoints used in the PMechRP paper can be found at https://deeprxn.ics.uci.edu/pmechdb/download under "PMechRP Datasets" and "PMechRP Model Checkpoints".
+Additional data splits and model checkpoints used in the PMechRP paper (preprint available at https://arxiv.org/pdf/2504.15539) can be found at https://deeprxn.ics.uci.edu/pmechdb/download under "PMechRP Datasets" and "PMechRP Model Checkpoints".
 
 ---
 
