@@ -2,6 +2,8 @@
 
 This repository provides scripts and models for atom and mechanism ranking in reaction prediction.
 
+Additional data splits and model checkpoints used in the PMechRP paper can be found at https://deeprxn.ics.uci.edu/pmechdb/download under "PMechRP Datasets" and "PMechRP Model Checkpoints".
+
 ---
 
 ## Setup Python Environment
